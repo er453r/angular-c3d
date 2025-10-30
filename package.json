@@ -29,6 +29,10 @@
       "import": "./dist/esm/index.js",
       "types": "./dist/esm/index.d.ts"
     },
+    "./decodeImageFrameWorker": {
+      "import": "./dist/esm/decodeImageFrameWorker.js",
+      "types": "./dist/esm/decodeImageFrameWorker.d.ts"
+    },
     "./constants": {
       "import": "./dist/esm/constants/index.js",
       "types": "./dist/esm/constants/index.d.ts"
